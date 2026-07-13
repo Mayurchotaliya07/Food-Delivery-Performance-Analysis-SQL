@@ -243,24 +243,18 @@ food-delivery-time-analysis/
 
 ## 👤 Author
 
-**[Your Name]**
+**Mayur Chotaliya**
 Data Analyst | SQL & Business Intelligence
 
 ---
 
 ## 🔗 GitHub Repository
 
-[github.com/your-username/food-delivery-time-analysis](https://github.com/your-username/food-delivery-time-analysis)
+[https://github.com/Mayurchotaliya07/Food-Delivery-Performance-Analysis-SQL](https://github.com/Mayurchotaliya07/Food-Delivery-Performance-Analysis-SQL)
 
 ## 💼 LinkedIn
 
-[linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — free to use, modify, and share with attribution.
+[https://www.linkedin.com/in/mayur-chotaliya-7a90a4398/](https://www.linkedin.com/in/mayur-chotaliya-7a90a4398/)
 
 ---
 
